@@ -3,6 +3,7 @@ jacks or better: {
 	rules:
 		5 card poker
 		52 card deck
+		ante 1 pt
 		deal
 		keep or reject each card
 		draw new cards
@@ -16,4 +17,7 @@ jacks or better: {
 		straight flush = 18 pt
 		straight flush of (10, J, Q, K, A) = 25 pt
 		flush = 7 pt
+
+
 	}
+
