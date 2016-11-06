@@ -1,1 +1,19 @@
-jacks or better
+jacks or better: {
+
+	rules:
+		5 card poker
+		52 card deck
+		deal
+		keep or reject each card
+		draw new cards
+
+	score:
+		pair of [J, Q, K, A] = 2 pt
+		3 of a kind = 3 pt
+		4 of a kind = 10 pt
+		4 of a kind + [J, Q, K, A] = 13 pt
+		straight = 4 pt
+		straight flush = 18 pt
+		straight flush of (10, J, Q, K, A) = 25 pt
+		flush = 7 pt
+	}
