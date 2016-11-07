@@ -27,4 +27,4 @@ var clubs = [
 ];
 var jacksorbetter = [
 	J♠,Q♠,K♠,A♠,J♥,Q♥,K♥,A♥,J♦,Q♦,K♦,A♦,J♣,Q♣,K♣,A♣
-]
+];
